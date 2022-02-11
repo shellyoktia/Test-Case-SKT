@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Test-Case-SKT</name>
+   <name>Test SKT</name>
    <tag></tag>
-   <UUID>89486483-1b77-4b45-9d40-2c6b88d3d395</UUID>
+   <UUID>8a4dcdf1-8b6b-48ef-9a21-6143f2f68b3b</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>

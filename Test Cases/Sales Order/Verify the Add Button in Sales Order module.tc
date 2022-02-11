@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the Add Button in Sales Order module</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1f4fd13-270b-4fed-be98-19ce712e8cc5</testCaseGuid>
+</TestCaseEntity>
